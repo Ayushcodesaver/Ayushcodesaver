@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 <h3 align="center">Hello! 👋 I'm a first-year developer with a strong passion for coding and web development. I love exploring new technologies, building interactive websites, and continuously learning to improve my skills.</h3>
-
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://st5.depositphotos.com/1026266/70938/i/450/depositphotos_709385400-stock-photo-faceless-hacker-programmer-inscription-binary.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushcodesaver&label=Profile%20views&color=0e75b6&style=flat" alt="ayushcodesaver" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
