@@ -1,3 +1,5 @@
+![logo](https://github.com/Ayushcodesaver/Ayushcodesaver/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 <h3 align="center">Hello! 👋 I'm a first-year developer with a strong passion for coding and web development. I love exploring new technologies, building interactive websites, and continuously learning to improve my skills.</h3>
 
